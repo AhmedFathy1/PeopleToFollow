@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Follower</string>
+    <string name="username">User Name</string>
+    <string name="google_plus_id_hint"> Google+ ID</string>
+    <string name="twitter_id_hint"> Twitter ID</string>
+    <string name="instagram_id_hint">Instagram ID</string>
+    <string name="done">Done</string>
+    <string name="add_person">Add person</string>
+    <string name="person_details">Person details</string>
+    <string name="edit_person">Edit person</string>
+</resources>
